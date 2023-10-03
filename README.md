@@ -6,7 +6,7 @@
 - **Paul Abah**
 - **Leo Fonseca (me)**
 
-## Dataset file: [MMDA_TrafficIncidents_Tab.xlsx](https://github.com/leoaugusto1976/Midterm_Project/blob/main/MMDA_TrafficIncidents_Tab.xlsx)
+## Dataset file: [MMDA_TrafficIncidents_Tab.xlsx](https://github.com/leoaugusto1976/Midterm_Project/blob/main/data/MMDA_TrafficIncidents_Tab.xlsx)
 
 # Traffic Incidents Analysis in the Philippines
 
@@ -222,7 +222,7 @@ Welcome to the Comprehensive Traffic Analysis Dashboard, your central hub for ex
 
 This dashboard equips you with the tools needed to make informed decisions, implement targeted safety measures, and enhance road safety across the Philippines. Whether you're a city planner, safety advocate, or decision-maker, these visualizations empower you to prioritize actions where they matter most.  
 
-[Click here to see the Comprehensive Traffic Analysis Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard3) 
+[Click here to see the Presentation Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard3) 
 
 # Project Conclusion
 
