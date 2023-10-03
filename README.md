@@ -80,14 +80,12 @@ Type: Bar chart
 This graph illustrates the distribution of reported accidents categorized by different directions, including 'Eastbound' (EB), 'Northbound' (NB), 'Southbound' (SB), 'Westbound' (WB), and other directions. It provides insights into the prevalence of accidents in each direction, helping us understand traffic incident patterns and potential areas for improved safety measures.  
 [Click here to see the Graph on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Sheet7)
     - **Direction options**:  
-        - **CLARA**: This abbreviation may refer to a specific location, route, or road designation. Without additional context, it's challenging to determine its exact meaning. You may need to consult the dataset documentation or source for clarification.
         - **CLOSED**: Typically, this indicates that a road or lane is closed to traffic, often due to construction, accidents, or other temporary obstructions. It signifies that vehicles cannot pass through the specified direction.
-        - **DAR**: "DAR" may be an abbreviation for a particular road, route, or location. Additional context or documentation could provide more information about its meaning.
         - **EB**: This stands for "Eastbound," indicating that the traffic or route is oriented in the direction of the east.
         - **NB**: "NB" represents "Northbound," signifying that the traffic or route is oriented in the direction of the north.
-        - **PAX**: Similar to "CLARA," "PAX" might refer to a specific location, route, or road designation. Its meaning would likely depend on the local context or dataset source.
         - **SB**: This stands for "Southbound," indicating that the traffic or route is oriented in the direction of the south.
         - **WB**: "WB" represents "Westbound," signifying that the traffic or route is oriented in the direction of the west.
+        - **CLARA**, **DAR**, **PAX**: These abbreviations appear to represent specific location, route, or road designations. However, without additional context or a defined reference, it's challenging to ascertain their precise meanings. In our analysis, we were unable to find a specific definition or reference for these abbreviations, which limits our ability to provide a concrete interpretation.
 
 - Number of Accidents Reported by Incident Type  
 Type: Pie chart  
