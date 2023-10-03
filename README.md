@@ -172,7 +172,7 @@ This dashboard provides flexibility with interactive filters:
 
 - **Time-of-Day Filter**: Tailor your analysis to particular times of the day for precise insights.
 
-Check it out on Tableau: https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard1
+[Click here to see the Traffic Incidents Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard1)
 
 ## Comprehensive Traffic Analysis Dashboard
 
@@ -199,7 +199,7 @@ Customize your analysis with interactive filters:
 - **City Selection**: Drill down into data for a particular city, enabling tailored approaches to road safety.
 
 
-Check it out on Tableau: https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard2  
+[Click here to see the Comprehensive Traffic Analysis Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard2)  
 
 # Project Conclusion
 
