@@ -6,7 +6,7 @@
 - **Paul Abah**
 - **Leo Fonseca (me)**
 
-## Dataset file: [file](https://github.com/leoaugusto1976/Midterm_Project/blob/main/MMDA_TrafficIncidents_Tab.xlsx)
+## Dataset file: [MMDA_TrafficIncidents_Tab.xlsx](https://github.com/leoaugusto1976/Midterm_Project/blob/main/MMDA_TrafficIncidents_Tab.xlsx)
 
 # Traffic Incidents Analysis in the Philippines
 
@@ -45,9 +45,9 @@ As part of our data preparation, we meticulously addressed missing values. Addit
 
 2. To create the dashboards, we develops these graphs:
 
-- Number of Accidents Reported by Year and Quarter  
+- Traffic Incidents  
 Type: Line graph  
-This graph illustrates the trend in the number of reported accidents over the years, grouped by quarters. It provides insights into how accident occurrences have varied and whether there are any seasonal patterns or trends in accident reporting. By examining the data by year and quarter, we can identify periods with higher or lower accident rates and potentially explore factors contributing to these variations.  
+This graph provides a monthly overview of traffic incidents, with the X-axis representing each month and the Y-axis indicating the number of reported accidents. By visualizing incident trends over time, we can identify monthly variations and patterns in accident frequency, contributing to a better understanding of road safety dynamics. 
 [Click here to see the Graph on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Sheet1)
 
 - Number of Accidents Reported by Weekday  
@@ -97,7 +97,7 @@ Type: heatmap
 This heat map visually represents the distribution of traffic incidents over the course of a month, with columns representing individual days and rows representing days of the week. The intensity of color indicates incident frequency, with darker shades highlighting days and times when accidents are more prevalent. This visualization helps us identify any recurring patterns or hotspots in traffic incidents, facilitating better insights into when and where accidents tend to occur.  
 [Click here to see the Graph on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Sheet9)
 
-- Incident Count Breakdown  
+- Top Incidents 
 Type: Table  
 This graph provides a detailed breakdown of traffic incidents by type, displaying the number of incidents for each specific incident category. The last row represents the total count of all incidents. This breakdown allows for a clear understanding of the composition of reported incidents, highlighting the most prevalent incident types and their contribution to the overall incident count.  
 [Click here to see the Graph on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Sheet10)
@@ -200,6 +200,29 @@ Customize your analysis with interactive filters:
 
 
 [Click here to see the Comprehensive Traffic Analysis Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard2)  
+
+## Presentation Dashboard
+
+Welcome to the Comprehensive Traffic Analysis Dashboard, your central hub for exploring and dissecting traffic incident data from various cities in the Philippines. This dynamic dashboard encompasses a wide range of visualizations and insights to facilitate a deeper understanding of road safety.
+
+### Key Insights and Visualizations
+
+- **Incident Number**: Get an overall count of traffic incidents, providing a snapshot of the total incidents recorded.
+
+- **Incidents by Month**: Explore the distribution of incidents over months, identifying monthly trends and variations.
+
+- **Incidents by Year**: Delve into incident data over the years to detect long-term patterns and changes.
+
+- **Heatmaps**: Visualize incident hotspots with interactive heatmaps:
+  - **Heatmap**: Gain a spatial perspective of incidents across different regions and cities.
+  - **City Heatmap**: Zoom in on individual cities to pinpoint areas with higher incident rates.
+  - **Weekday Heatmap**: Examine incidents by the day of the week, uncovering weekly patterns.
+
+### Data-Driven Decision Making
+
+This dashboard equips you with the tools needed to make informed decisions, implement targeted safety measures, and enhance road safety across the Philippines. Whether you're a city planner, safety advocate, or decision-maker, these visualizations empower you to prioritize actions where they matter most.  
+
+[Click here to see the Comprehensive Traffic Analysis Dashboard on the Tableau Public website](https://public.tableau.com/app/profile/leo.fonseca/viz/TrafficAccidentsMidtermProject/Dashboard3) 
 
 # Project Conclusion
 
